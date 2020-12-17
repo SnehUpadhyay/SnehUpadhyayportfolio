@@ -406,8 +406,10 @@ section.contact-form {
 
 section.tables {
     margin-top: 80px;
+/*
     border-top: 3px solid #eee!important;
     padding-top: 100px;
+*/
 }
 
 section.tables .container-fluid {
